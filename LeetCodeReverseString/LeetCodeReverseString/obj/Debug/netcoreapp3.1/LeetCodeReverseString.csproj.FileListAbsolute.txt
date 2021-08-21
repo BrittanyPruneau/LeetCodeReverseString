@@ -1,0 +1,13 @@
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\bin\Debug\netcoreapp3.1\LeetCodeReverseString.exe
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\bin\Debug\netcoreapp3.1\LeetCodeReverseString.deps.json
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\bin\Debug\netcoreapp3.1\LeetCodeReverseString.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\bin\Debug\netcoreapp3.1\LeetCodeReverseString.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\bin\Debug\netcoreapp3.1\LeetCodeReverseString.dll
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\bin\Debug\netcoreapp3.1\LeetCodeReverseString.pdb
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\obj\Debug\netcoreapp3.1\LeetCodeReverseString.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\obj\Debug\netcoreapp3.1\LeetCodeReverseString.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\obj\Debug\netcoreapp3.1\LeetCodeReverseString.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\obj\Debug\netcoreapp3.1\LeetCodeReverseString.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\obj\Debug\netcoreapp3.1\LeetCodeReverseString.dll
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\obj\Debug\netcoreapp3.1\LeetCodeReverseString.pdb
+C:\Users\prune\VisualStudioMSSA\LeetCodeReverseString\LeetCodeReverseString\obj\Debug\netcoreapp3.1\LeetCodeReverseString.genruntimeconfig.cache
